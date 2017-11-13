@@ -1,7 +1,7 @@
 # projet-bootstrap-exercice1-LS-777
 
 
-First commit; 
+3rd commit; 
 
 elements taken from a bootstrap template, blocks are cards.
 
